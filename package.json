@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shubh-codes7.github.io/indian-post-office",
+  "homepage": "https://shubh-codes7.github.io/indian-post-office/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
